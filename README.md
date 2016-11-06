@@ -1,2 +1,2 @@
 # twitbottut
-a node twitter bot tutorial - github for heroku deployment
+A simple twitter bot that sends a random dice roll to a twitter account
